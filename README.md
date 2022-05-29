@@ -82,3 +82,19 @@ Here will be a list of different models and their scores:
 0 = 0.71
         
 1 = 0.55
+
+![Balance_Random_Forest_Classifier](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Balance_Random_Forest_Classifier.PNG)
+
+**Accuracy: % 86.60**
+
+**Precision:**
+
+0 = 0.03
+
+1 = 1.00
+
+**Recall:**
+
+0 = 0.63
+        
+1 = 0.87
