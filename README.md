@@ -18,15 +18,15 @@ Here will be a list of different models and their scores:
 
 ### Random Oversampler
 
-Accuracu: %62.99
+**Accuracy: % 62.99**
 
-Precision: 
+**Precision:**
 
 0 = 0.01
 
 1 = 1.00
 
-Recall: 
+**Recall:**
 
 0 = 0.66
         
