@@ -9,8 +9,11 @@ A credit card credit dataset from the LendingClub organization, a peer-to-peer l
 Here will be a list of different models and their scores:
 
   *Accuracy = Acc*
+
   *Precision = Pre*
+
   *Recall = Rec*
+
 
 # Random_Oversampler
 
