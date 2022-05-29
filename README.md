@@ -124,3 +124,8 @@ Here will be a list of different models and their scores:
 1 = 0.47
 
 ## Summary
+The sampling models that had been used gave low accuracy, wildly different precision and decent recall, hovering in the low to mid 60s and the classifier models have the same kind of precision as the sampling models. The classifier model's recall though is in the mid 60s for the forest and mid 50s for the ensemble. Their precision seems to still be low, with 0.01 but the accuracy is incredibly high, being 87% for the forest and 94% for the ensemble.
+
+So what does this mean, it means that the Easy Ensemble Classifier has the highest accuracy but their precision is very low on one side which isn't too promising. The recall is also way too low on both sides to be considered worthwhile to use.
+
+I wouldn't recommend to use these models because they are reporthing out a min value of about 63% for accuracy and their precision scores are too drastically one sided to be considered precies although accurate. Maybe with the data being much more pruned the values could change and the models could prove to be more reliable but in their current state I couldn't advise to use them.
