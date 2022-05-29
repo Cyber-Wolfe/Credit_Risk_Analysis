@@ -98,3 +98,19 @@ Here will be a list of different models and their scores:
 0 = 0.63
         
 1 = 0.87
+
+![Easy_Ensemble_Classifier](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Easy_Ensemble_Classifier.PNG)
+
+**Accuracy: % 94.60**
+
+**Precision:**
+
+0 = 0.01
+
+1 = 1.00
+
+**Recall:**
+
+0 = 0.56
+        
+1 = 0.47
