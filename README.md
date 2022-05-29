@@ -33,3 +33,19 @@ Here will be a list of different models and their scores:
         
 1 = 0.60
 
+
+![SMOTE_Oversampling](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/SMOTE_Oversampling.PNG)
+
+**Accuracy: % 63.40**
+
+**Precision:**
+
+0 = 0.01
+
+1 = 1.00
+
+**Recall:**
+
+0 = 0.63
+        
+1 = 0.64
