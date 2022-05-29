@@ -34,6 +34,7 @@ Here will be a list of different models and their scores:
 1 = 0.60
 
 
+### SMOTE Oversampling
 ![SMOTE_Oversampling](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/SMOTE_Oversampling.PNG)
 
 **Accuracy: % 63.40**
@@ -49,6 +50,8 @@ Here will be a list of different models and their scores:
 0 = 0.63
         
 1 = 0.64
+
+### Under Sampling
 
 ![Under_Sampling](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Under_Sampling.PNG)
 
@@ -66,6 +69,7 @@ Here will be a list of different models and their scores:
         
 1 = 0.55
 
+### Over/Under Sampling
 
 ![Over_Under_Sampling](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Over_Under_Sampling.PNG)
 
@@ -83,6 +87,8 @@ Here will be a list of different models and their scores:
         
 1 = 0.55
 
+### Balance Random Forest Classifier
+
 ![Balance_Random_Forest_Classifier](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Balance_Random_Forest_Classifier.PNG)
 
 **Accuracy: % 86.60**
@@ -98,6 +104,8 @@ Here will be a list of different models and their scores:
 0 = 0.63
         
 1 = 0.87
+
+### Easy Ensemble Classifier
 
 ![Easy_Ensemble_Classifier](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Easy_Ensemble_Classifier.PNG)
 
