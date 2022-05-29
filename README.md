@@ -16,5 +16,5 @@ Here will be a list of different models and their scores:
 
 
 
-### Random_Oversampler
+#### Random Oversampler
 
