@@ -17,6 +17,7 @@ Here will be a list of different models and their scores:
 
 
 ### Random Oversampler
+![Random_Oversampler](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Random_Oversampler.PNG)
 
 **Accuracy: % 62.99**
 
