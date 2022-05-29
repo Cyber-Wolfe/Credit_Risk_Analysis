@@ -49,3 +49,36 @@ Here will be a list of different models and their scores:
 0 = 0.63
         
 1 = 0.64
+
+![Under_Sampling](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Under_Sampling.PNG)
+
+**Accuracy: % 63.40**
+
+**Precision:**
+
+0 = 0.01
+
+1 = 1.00
+
+**Recall:**
+
+0 = 0.71
+        
+1 = 0.55
+
+
+![Over_Under_Sampling](https://github.com/Cyber-Wolfe/Credit_Risk_Analysis/blob/main/Captures/Over_Under_Sampling.PNG)
+
+**Accuracy: % 63.27**
+
+**Precision:**
+
+0 = 0.01
+
+1 = 1.00
+
+**Recall:**
+
+0 = 0.71
+        
+1 = 0.55
