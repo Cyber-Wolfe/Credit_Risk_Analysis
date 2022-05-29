@@ -20,7 +20,7 @@ Here will be a list of different models and their scores:
 
 Accuracu: %62.99
 
-Precision: 0 = 0.01
+Precision: 0 = 0.01 /n
            1 = 1.00
 
 Recall: 0 = 0.66
